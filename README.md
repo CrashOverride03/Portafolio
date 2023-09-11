@@ -8,7 +8,7 @@
 - B.S., Electronics Engineering | Autonomous University of the State of Hidalgo
 
 ## Relevant Work Experience
-**Data Modeling @ BBVA (_October 2022 - Present_)**
+**Data Modeling BBVA (_October 2022 - Present_)**
 -End to End ETL process using spark.
 -Develop automatic pipeline for recurrent proces using PySpark.
 
