@@ -9,8 +9,8 @@
 
 ## Relevant Work Experience
 **Data Modeling BBVA (_October 2022 - Present_)**
--End to End ETL process using spark.
--Develop automatic pipeline for recurrent proces using PySpark.
+- End to End ETL process using spark.
+- Develop automatic pipeline for recurrent proces using PySpark.
 
 ## Projects
 ### NLP recommendation system
