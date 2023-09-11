@@ -4,6 +4,6 @@
 
 ## Education
 - Graduate., Data Science | Skills.tech
-- Bootcamp.; AI | [AI LAB SCHOOL] (https://ailabschool.com/)
+- Bootcamp., AI | [AI LAB SCHOOL](https://ailabschool.com/)
 - 
 - 
